@@ -1,4 +1,5 @@
 Getting-and-Cleaning-Data-Week-4-Assignment
+
 This repository containst the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 •First, download and unzip the data file into your R working directory.•Second, download the R source code into your R working directory.
 •Finally, execute R source code to generate tidy data file.
